@@ -68,6 +68,8 @@ Before delving into the Machine Learning applications, we will first quickly lea
     This is my first commit
     ``` 
     
+
+    
     * Click `Commit and Sync master`
 8. Continue with the labs, when you are done `Commit and Sync master` to save everything you have done on GitHub
 
@@ -259,6 +261,9 @@ but the rest are just random noise. We want to try different models where we
 include the first $k$ predictors. We will use LOOCV to find $k$. Note that 
 from the simulation setting we know we should pick $k=6$ but LOOCV does not
 know this:
+
+test change
+
 
 (Remark: The code below might take a while to run -- indeed one of the 
 disadvantages of LOOCV is its long run time. If it takes too long you can 
